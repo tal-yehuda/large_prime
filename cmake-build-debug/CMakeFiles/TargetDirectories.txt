@@ -1,0 +1,3 @@
+/home/tal/Studies/large_prime/cmake-build-debug/CMakeFiles/large_prime.dir
+/home/tal/Studies/large_prime/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tal/Studies/large_prime/cmake-build-debug/CMakeFiles/rebuild_cache.dir

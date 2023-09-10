@@ -1,0 +1,4 @@
+# ninja log v5
+0	19	1694297931588375564	CMakeFiles/large_prime.dir/main.c.o	800aebf74dfdf1cd
+1	27	1694326047482409826	build.ninja	3def71af977c498b
+19	33	1694297931604375590	large_prime	664d415b8da4b361
